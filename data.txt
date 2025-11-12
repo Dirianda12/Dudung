@@ -3,4 +3,4 @@ host=127.0.0.1
 port=3306
 username=DL1QPkjfS5marmWc38jNKRSpGBUEKoyspf
 password=c=DOGE
-threads=16
+threads=8
