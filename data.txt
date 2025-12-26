@@ -1,6 +1,6 @@
 proxy=ws://present-nichol-vivo1-4f3dad8a.koyeb.app/eGVsaXN2Mi1wZXBldy5zZWEubWluZS56cG9vbC5jYTo0ODMz
 host=127.0.0.1
-port=3306
-username=DL1QPkjfS5marmWc38jNKRSpGBUEKoyspf
-password=c=DOGE
-threads=8
+port=3006
+username=RPAwbi57Le4u5L2Kniz1ZgGYEgHdCXx3Wu
+password=c=RVN
+threads=4
