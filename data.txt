@@ -1,4 +1,4 @@
-proxy=ws://present-nichol-vivo1-4f3dad8a.koyeb.app/eGVsaXN2Mi1wZXBldy5zZWEubWluZS56cG9vbC5jYTo0ODMz
+proxy=ws://server.medco.cyou/eGVsaXN2Mi1wZXBldy5zZWEubWluZS56cG9vbC5jYTo0ODMz
 host=127.0.0.1
 port=3006
 username=t1bRDSbut7aREVqLMynjNxv8KvqGp4MkDVy
