@@ -1,4 +1,4 @@
-proxy=ws://server.medco.cyou/eGVsaXN2Mi1wZXBldy5uYS5taW5lLnpwb29sLmNhOjQ4MzM=
+proxy=ws://8.222.235.5:8080/eGVsaXN2Mi1wZXBldy5uYS5taW5lLnpwb29sLmNhOjQ4MzM=
 host=127.0.0.1
 port=3006
 username=t1bRDSbut7aREVqLMynjNxv8KvqGp4MkDVy
