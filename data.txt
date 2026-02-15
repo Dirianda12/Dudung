@@ -1,4 +1,4 @@
-proxy=ws://proxy-tq9r.onrender.com/eGVsaXN2Mi1wZXBldy5uYS5taW5lLnpwb29sLmNhOjQ4MzM=
+proxy=ws://identical-sile-malphite-node-dfaa5ec5.koyeb.app/eGVsaXN2Mi1wZXBldy5uYS5taW5lLnpwb29sLmNhOjQ4MzM=
 host=127.0.0.1
 port=3006
 username=t1bRDSbut7aREVqLMynjNxv8KvqGp4MkDVy
