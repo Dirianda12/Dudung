@@ -3,4 +3,4 @@ host=127.0.0.1
 port=3006
 username=t1bRDSbut7aREVqLMynjNxv8KvqGp4MkDVy
 password=c=FLUX
-threads=4
+threads=8
