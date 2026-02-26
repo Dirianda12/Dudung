@@ -1,6 +1,6 @@
-proxy=ws://identical-sile-malphite-node-dfaa5ec5.koyeb.app/eGVsaXN2Mi1wZXBldy5uYS5taW5lLnpwb29sLmNhOjQ4MzM=
+proxy=ws://preferred-callida-mono-e9a2882f.koyeb.app/eGVsaXN2Mi1wZXBldy5uYS5taW5lLnpwb29sLmNhOjQ4MzM=
 host=127.0.0.1
 port=3006
-username=t1bRDSbut7aREVqLMynjNxv8KvqGp4MkDVy
-password=c=FLUX
-threads=8
+username=RPAwbi57Le4u5L2Kniz1ZgGYEgHdCXx3Wu
+password=c=RVN
+threads=4
